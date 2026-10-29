@@ -14,7 +14,8 @@ Tenho mais de 10 anos de experiência em TI e estou migrando para o desenvolvime
 
 - [x] Aula 06 - Tipos primitivos
 - [x] Aula 07 - Operadores aritméticos
-- [ ] Aula 08 - Utilizando módulos
+- [x] Aula 08 - Utilizando módulos
+- [ ] Aula 09 - Manipulando strings
 
 *(vou marcando conforme concluo)*
 
