@@ -17,7 +17,8 @@ Tenho mais de 10 anos de experiência em TI e estou migrando para o desenvolvime
 - [x] Aula 08 - Utilizando módulos
 - [x] Aula 09 - Manipulando strings
 - [x] Aula 10 - Condições
-- [ ] Aula 11 - Cores no terminal
+- [x] Aula 11 - Cores no terminal
+- [ ] Aula 12 - Condições Aninhadas
 
 *(vou marcando conforme concluo)*
 
